@@ -1,0 +1,6 @@
+-1 -1 -1  abs(f-l) 0 finalSum -999999999
+-1 3 2  abs(f-l) 4 finalSum -999999999
+-1 2 4  abs(f-l) 3 finalSum -999999999
+3 4 9  abs(f-l) 1 finalSum 4
+3 5 14  abs(f-l) 2 finalSum 4
+4
